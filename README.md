@@ -56,7 +56,7 @@ The display uses even pitch-ratio spacing, similar to a slide rule. Visual spaci
 
 ## License
 
-This project is licensed under the [BSD 3-Clause](https://en.wikipedia.org/wiki/BSD_licenses#3-clause_license_(%22BSD_License_2.0%22,_%22Revised_BSD_License%22,_%22New_BSD_License%22,_or_%22Modified_BSD_License%22)) - see the [LICENSE](https://github.com/TechRancher/Octave-Coordinate-Prime-Visualizer/blob/68c035888782be45f774ba29e89019859d1f9683/LICENSE) file for details.
+This project is licensed under the [BSD 3-Clause](https://en.wikipedia.org/wiki/BSD_licenses#3-clause_license_(%22BSD_License_2.0%22,_%22Revised_BSD_License%22,_%22New_BSD_License%22,_or_%22Modified_BSD_License%22)) - see the [LICENSE](https://github.com/TechRancher/Octave-Coordinate-Prime-Visualizer?tab=BSD-3-Clause-1-ov-file) file for details.
 
 ---
 
